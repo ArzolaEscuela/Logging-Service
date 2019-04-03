@@ -1,0 +1,9 @@
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11 - Logging Service\Logging Service\bin\Release\Logging Service.exe.config
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11 - Logging Service\Logging Service\bin\Release\Logging Service.exe
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11 - Logging Service\Logging Service\bin\Release\Logging Service.pdb
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11 - Logging Service\Logging Service\obj\Release\Logging Service.csprojResolveAssemblyReference.cache
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11 - Logging Service\Logging Service\obj\Release\Logging_Service.ProjectInstaller.resources
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11 - Logging Service\Logging Service\obj\Release\Logging Service.csproj.GenerateResource.cache
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11 - Logging Service\Logging Service\obj\Release\Logging Service.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11 - Logging Service\Logging Service\obj\Release\Logging Service.exe
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11 - Logging Service\Logging Service\obj\Release\Logging Service.pdb
